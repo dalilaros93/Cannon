@@ -13,9 +13,7 @@ var pos3 = cannonPosX;
 var pos4 = cannonPosY-50;
 
 d3.select("body").append("h2").text("Rotate the barrel and then shoot.")
-// d3.select("body").append("h2").text("and then shoot. Have fun!")
 
-   // and then shoot. Have fun!")
 
 var audio = new Audio('cannon_audio.mp3');
 
