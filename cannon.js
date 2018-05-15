@@ -7,7 +7,7 @@ var lock=false;
 
 
 var pos1 = cannonPosX+30;
-var pos2 = cannonPosY-5;
+var pos2 = cannonPosY-10;
 
 var pos3 = cannonPosX;
 var pos4 = cannonPosY-50;
